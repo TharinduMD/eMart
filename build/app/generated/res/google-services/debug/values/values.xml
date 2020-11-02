@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">98670262551-de72gere7rf8r5843a5eokpp48vfpcpq.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://emart-969c3.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">98670262551</string>
+    <string name="google_api_key" translatable="false">AIzaSyAG92hKV3xYz0I_EuVe5MLQhkc7dGqCBqA</string>
+    <string name="google_app_id" translatable="false">1:98670262551:android:2f823c5f17e8f46734df52</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAG92hKV3xYz0I_EuVe5MLQhkc7dGqCBqA</string>
+    <string name="google_storage_bucket" translatable="false">emart-969c3.appspot.com</string>
+    <string name="project_id" translatable="false">emart-969c3</string>
+</resources>

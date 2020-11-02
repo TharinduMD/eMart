@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Flutter Projects\\eMart\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Tharindu\\.gradle\\caches\\transforms-2\\files-2.1\\963e899385f2dce978a0273a28b9201f\\core-1.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\Flutter Projects\\eMart\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Tharindu\\.gradle\\caches\\transforms-2\\files-2.1\\963e899385f2dce978a0273a28b9201f\\core-1.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\Flutter Projects\\eMart\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Tharindu\\.gradle\\caches\\transforms-2\\files-2.1\\963e899385f2dce978a0273a28b9201f\\core-1.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\Flutter Projects\\eMart\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Tharindu\\.gradle\\caches\\transforms-2\\files-2.1\\963e899385f2dce978a0273a28b9201f\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
+    }
+]

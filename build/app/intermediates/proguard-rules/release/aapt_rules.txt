@@ -1,0 +1,24 @@
+# Referenced at E:\Flutter Projects\eMart\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:26
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at E:\Flutter Projects\eMart\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:136
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at E:\Flutter Projects\eMart\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:157
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at E:\Flutter Projects\eMart\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:147
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at E:\Flutter Projects\eMart\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:153
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at E:\Flutter Projects\eMart\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:119
+-keep class com.google.firebase.auth.internal.FederatedSignInActivity { <init>(); }
+# Referenced at E:\Flutter Projects\eMart\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:73
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at E:\Flutter Projects\eMart\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:127
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+# Referenced at E:\Flutter Projects\eMart\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:141
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at E:\Flutter Projects\eMart\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:31
+-keep class com.muhammadali.e_shop.MainActivity { <init>(); }
+# Referenced at E:\Flutter Projects\eMart\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:26
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at E:\Flutter Projects\eMart\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:109
+-keep class io.flutter.plugins.imagepicker.ImagePickerFileProvider { <init>(); }
